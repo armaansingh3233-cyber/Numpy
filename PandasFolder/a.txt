@@ -1,0 +1,28 @@
+The Standard deviation tells us the typical distance of data points from mean
+
+Low deviation:Data is consistent and bunched near the center
+High deviation:Data is erratic and spread far from the center
+
+Eg:Both Student A and B have an average Commute of 30 minutes
+-Student A(dev=2 mins):Highly predictable(usually 28-32 min)
+-Student B(dev=15 mins):Unpredictable(could be 15 or 45 min)
+
+
+Rare Zone:Zone where Point out of data range(outliers)
+
+To check rare zone point, we use Z score:
+
+Measures how many Standard deviation a point is away"
+        Z=(x-mean)/SD
+
+
+
+
+Correlation Coefficient(r) ranges from -1 to 1
+
+        r=E(xi-x--)(yi-y--)
+
+
+
+Coincidence:Two variables happen to trend same way by pure chance
+A third hidden factor affects Both
